@@ -3,7 +3,7 @@
 
 ### 주제설명
 사용자 이름, 나이, 꿈을 말해주면 사용자의 위인전을 생성해주는 서비스
-[프로젝트 ppt]!(https://www.canva.com/design/DAGA3ax8onQ/Odbkz6Bknxsn7GsojB1inA/edit?utm_content=DAGA3ax8onQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[프로젝트 ppt](https://www.canva.com/design/DAGA3ax8onQ/Odbkz6Bknxsn7GsojB1inA/edit?utm_content=DAGA3ax8onQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### requirements
 langchain==0.1.13
