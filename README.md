@@ -5,8 +5,17 @@
 ### 주제설명
 사용자 이름, 나이, 꿈을 말해주면 사용자의 위인전을 생성해주는 서비스
 
-### 사용 기술
-GPT 3.5 API, Streamlit, langchain
+#### requirements
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-core==0.1.36
+langchain-text-splitters==0.0.1
+openai==1.14.3
+streamlit==1.32.2
+
+## Built With
+
+* [streamlit](https://streamlit.io)
+* [openai](https://openai.com)
+* [langchain](https://www.langchain.com)
 ![Azure Workshop Project Architecture](https://github.com/DoTheZ-Team/biography_generator/assets/51390115/e34eec68-cb45-4cd2-994b-5d2a861cb6c4)
-
-
