@@ -7,10 +7,15 @@
 
 #### requirements
 langchain==0.1.13
+
 langchain-community==0.0.29
+
 langchain-core==0.1.36
+
 langchain-text-splitters==0.0.1
+
 openai==1.14.3
+
 streamlit==1.32.2
 
 ## Built With
