@@ -10,9 +10,9 @@ from langchain.prompts import (
     HumanMessagePromptTemplate
 )
 
-os.environ['OPENAI_API_KEY'] = st.secrets[KEY]
+os.environ['OPENAI_API_KEY'] = st.secrets["KEY"]
 os.environ['OPENAI_API_VERSION'] = '2023-05-15'
-os.environ['AZURE_OPENAI_ENDPOINT'] = st.secrets[END_POINT]
+os.environ['AZURE_OPENAI_ENDPOINT'] = st.secrets["END_POINT"]
 os.environ['OPENAI_API_TYPE'] = 'azure'
 
 gpt = AzureOpenAI(deployment_name='dev-davinci-002')
