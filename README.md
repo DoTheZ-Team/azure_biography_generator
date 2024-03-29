@@ -10,8 +10,7 @@
 
 <br/>
 
-## requirements
-
+## Version Requirements
 ```md
 langchain==0.1.13
 langchain-community==0.0.29
@@ -23,7 +22,7 @@ streamlit==1.32.2
 
 <br/>
 
-## Built With
+## Articheture
 ![Azure Workshop Project Architecture](https://github.com/DoTheZ-Team/biography_generator/assets/51390115/e34eec68-cb45-4cd2-994b-5d2a861cb6c4)
 * [streamlit](https://streamlit.io)
 * [openai](https://openai.com)
